@@ -1,0 +1,8 @@
+{
+  "name": "pjproject-apple-platforms",
+  "version": "0.0.1",
+  "description": "PJProject for Apple platforms",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT"
+}
